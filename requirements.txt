@@ -1,0 +1,5 @@
+requests
+json
+bs4
+smtplib
+datetime
