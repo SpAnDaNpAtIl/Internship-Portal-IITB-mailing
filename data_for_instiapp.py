@@ -20,4 +20,3 @@ password = 'Random123' #password of this email ID which will send emails to your
 
 email_ID_to_send = 'myemailid@xyz.com' #your primary email ID where you will recieve.
 
-
