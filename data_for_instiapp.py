@@ -5,18 +5,19 @@ header = {"authority": "www.insti.app",
 "scheme": "https",
 "accept": "application/json, text/plain, */*",
 "accept-encoding": "gzip, deflate, br",
-"accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
-"cookie": "sessionid=g3k3svjs33urol28b9f5zblnf5v1xj2d",
-"referer": "https://www.insti.app/blog/ImFwaS90cmFpbmluZy1ibG9nez9mcm9tLG51bSxxdWVyeX0i",
+"accept-language": "something",
+"cookie": "somethingsomething",
+"referer": "somethingsomethingsomething",
 "sec-fetch-dest": "empty",
 "sec-fetch-mode": "cors",
 "sec-fetch-site": "same-origin",
-"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36"}
+"user-agent": "somethingsomethingsomethingsomething"} #make sure your header dictionary which you will get after following the steps of readme should look like this
+#first four elements of headers in your browser will have colon before its name. Remove that colons in the header dictionary and proceed
 
 
-email_ID_used_for_sending_mails = 'spandyinstiapp@gmail.com'
-password = 'InstiApp'
+email_ID_used_for_sending_mails = 'random@xyz.com' #email ID which will send emails to your primary email ID.
+password = 'Random123' #password of this email ID which will send emails to your primary email ID.
 
-email_ID_to_send = 'spandanp155@gmail.com'
+email_ID_to_send = 'myemailid@xyz.com' #your primary email ID where you will recieve.
 
 
