@@ -1,5 +1,5 @@
-requests
-json
-bs4
+requests==2.24.0
+json==2.0.9
+bs4==4.9.1
 smtplib
 datetime
